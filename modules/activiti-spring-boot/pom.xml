@@ -20,6 +20,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <java.version>1.7</java.version>
     <activiti.artifact>org.activiti.spring.boot</activiti.artifact>
     <logback.version>1.2.0</logback.version>
     <spring-boot.version>1.5.9.RELEASE</spring-boot.version>
